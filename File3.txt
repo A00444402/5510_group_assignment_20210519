@@ -1,0 +1,3 @@
+# A00444402
+def max_num(a, b):
+    return max(a, b)
