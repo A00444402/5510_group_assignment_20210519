@@ -1,3 +1,8 @@
 # A00444402
 def max_num(a, b):
     return max(a, b)
+#A00452906
+public int pow(int a,int b)
+{
+	int result=b-math.pow(a,b);
+}

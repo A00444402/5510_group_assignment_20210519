@@ -1,3 +1,8 @@
 # A00444402
 def divide(a, b):
     return a / b
+#A00452906
+public int min(int a,int b)
+{
+	int result=math.min(a,b)-math.max(a,b)
+}
