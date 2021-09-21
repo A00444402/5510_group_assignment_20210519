@@ -1,0 +1,5 @@
+#A00452906
+public int pow(int a,int b)
+{
+	int result=b-math.pow(a,b);
+}
